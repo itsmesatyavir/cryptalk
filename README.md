@@ -88,8 +88,10 @@ Follow the on-screen prompts to:
 
 MIT
 
-## 👥 Contributors
+## 👥 Community 
 
 - [Forest Army](https://github.com/itsmesatyavir)
 
 Feel free to contribute to this project by submitting a PR or opening an issue.
+
+## Thank You INSIDERS 😍
